@@ -25,4 +25,5 @@ This project is a clone of Netflix's homepage, aimed at practicing front-end dev
 
 To view the project, simply open the index.html file in your web browser. The project is fully static and does not require any server-side setup.
 
+
 ---
